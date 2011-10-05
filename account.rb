@@ -1,6 +1,6 @@
 # kommentar
 class Account 
-	def initialize(cash)
-		@cash = cash
+	def initialize
+		@cash = 500
 end
 end
